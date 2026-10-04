@@ -1,6 +1,6 @@
 # Playwright QA Suite
 
-[![Playwright Tests](https://github.com/OWNER/playwright-qa-suite/actions/workflows/playwright.yml/badge.svg)](https://github.com/OWNER/playwright-qa-suite/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/jaxjoelliott/playwright-qa-suite/actions/workflows/playwright.yml/badge.svg)](https://github.com/jaxjoelliott/playwright-qa-suite/actions/workflows/playwright.yml)
 
 End-to-end UI tests and API tests written with [Playwright](https://playwright.dev) and TypeScript. They run against two public practice sites, so nothing needs to be installed or hosted locally.
 
